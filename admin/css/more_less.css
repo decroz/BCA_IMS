@@ -1,0 +1,5 @@
+.read-more-link, .show-less-link{
+    text-decoration: none;
+    font-weight: bolder;
+    color: green;
+}

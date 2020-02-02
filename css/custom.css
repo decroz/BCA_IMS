@@ -1,0 +1,43 @@
+
+
+
+  .error.form-control{
+    border: 3px solid #e50000;
+  }
+  .error{
+    color: #e50000;
+  }
+  .valid.form-control{
+    border: 3px solid green;
+  }
+  .p-color{
+    color: #9b9b9b;
+  }
+  .notice-white{
+    color: #FFFAFA;
+  }
+  .news {
+    border: none;
+    color: black;
+    font-size: 18px;
+  } 
+  .news:hover {
+    background-color: #3e8e41;
+    color: white;
+  }
+  .notice {
+    border: none;
+    color: black;
+    font-size: 16px;
+  }
+  .notice:hover {
+    background-color: #7e605c;
+    color: white;
+  }
+  .read-more-link, .show-less-link{
+    text-decoration: none;
+    font-weight: bolder;
+  }
+  
+
+
